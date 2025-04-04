@@ -1,4 +1,4 @@
-name: primeira-pipeline
+name: primeira-pipeline-001
 on: 
   push:
     branches: ["main"]
